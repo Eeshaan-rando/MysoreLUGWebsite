@@ -7,13 +7,13 @@
 	<description> A website for Linux users and geeks in general to express their thoughts and spread information </description> 
 	<item>
 		<title>Building My First Docker Container</title>
-		<link> https://mysorelug.indriyallc.net/articles/2022/01/building-docker-container/index.html</link>
+		<link>https://mysorelug.indriyallc.net/articles/2022/01/building-docker-container/index.html</link>
 		<author>Prithvi Vishak</author>
 	</item>
 
 	<item> 
 		<title>My First Experiences with x86 Assembly + Some speed tests </title>
-		<link> https://mysorelug.indriyallc.net/articles/2021/12/assembly-thoughts/index.html </link>
+		<link>https://mysorelug.indriyallc.net/articles/2021/12/assembly-thoughts/index.html </link>
 		<author> Prithvi Vishak</author>
 	</item>
 </channel>
