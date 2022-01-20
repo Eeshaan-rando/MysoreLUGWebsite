@@ -3,7 +3,7 @@
 
 <channel>
 	<title> Mysore Linux Users' Group </title>
-	<link> https://www.w3schools.com </link>
+	<link> https://mysorelug.indriyallc.net </link>
 	<description> A website for Linux users and geeks in general to express their thoughts and spread information </description> 
 	<item>
 		<title>Building My First Docker Container</title>
@@ -13,7 +13,7 @@
 
 	<item> 
 		<title>My First Experiences with x86 Assembly + Some speed tests </title>
-		<link> https://mysorelug.indriyallc.net/articles/2021/12/assembly-thoughts/index.html
+		<link> https://mysorelug.indriyallc.net/articles/2021/12/assembly-thoughts/index.html </link>
 		<author> Prithvi Vishak</author>
 	</item>
 </channel>
